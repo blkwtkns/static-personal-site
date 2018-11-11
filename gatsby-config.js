@@ -3,11 +3,11 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
+    url: 'https://blkmwtkns',
     title: 'Blog by Blake Watkins',
     subtitle:
       'Enjoying all the buffers I can.',
-    copyright: '© All rights reserved.',
+    copyright: '',
     disqusShortname: '',
     menu: [
       {
@@ -31,10 +31,10 @@ module.exports = {
       name: 'Blake Watkins',
       email: 'blakemwatkins@gmail.com',
       telegram: '#',
-      twitter: 'https://twitter.com/TresFaim',
-      github: 'github.com/blkwtkns',
+      twitter: 'TresFaim',
+      github: 'blkwtkns',
+      linkedin: 'blkwtkns',
       rss: '#',
-      vk: '#',
     },
   },
   plugins: [

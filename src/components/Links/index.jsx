@@ -9,8 +9,8 @@ class Links extends React.Component {
       telegram: author.telegram,
       twitter: author.twitter,
       github: author.github,
-      vk: author.vk,
       rss: author.rss,
+      linkedin: author.linkedin,
       email: author.email,
     }
 
@@ -36,17 +36,6 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a
-              href={`https://www.vk.com/${links.vk}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-vkontakte" />
-            </a>
-          </li>
-        </ul>
-        <ul className="links__list">
-          <li className="links__list-item">
             <a href={`mailto:${links.email}`}>
               <i className="icon-mail" />
             </a>
@@ -56,11 +45,18 @@ class Links extends React.Component {
               <i className="icon-paper-plane" />
             </a>
           </li>
-        </ul>
-        <ul className="links__list">
           <li className="links__list-item">
             <a href={links.rss}>
               <i className="icon-rss" />
+            </a>
+          </li>
+          <li className="links__list-item">
+            <a
+              href={`https://www.linkedin.com/in/${links.linkedin}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="icon-linkedin" />
             </a>
           </li>
         </ul>
