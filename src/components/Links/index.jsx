@@ -1,4 +1,5 @@
 import React from 'react'
+import { withPrefix } from 'gatsby'
 import './style.scss'
 import '../../assets/fonts/fontello-771c82e0/css/fontello.css'
 
@@ -57,6 +58,15 @@ class Links extends React.Component {
               rel="noopener noreferrer"
             >
               <i className="icon-linkedin" />
+            </a>
+          </li>
+          <li className="links__list-item">
+            <a
+              href={withPrefix('/BlakeWatkinsResume.pdf')}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="icon-pdf" />
             </a>
           </li>
         </ul>
