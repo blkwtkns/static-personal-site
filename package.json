@@ -1,19 +1,19 @@
 {
   "version": "3.0.0",
-  "name": "gatsby-v2-starter-lumen",
-  "description": "Simple starter for Gatsby",
+  "name": "static-personal-site",
+  "description": "Personal Site",
   "main": "n/a",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "npx gatsby develop",
+    "build": "npx gatsby build",
     "clean:public": "rm -rf public",
     "clean": "npm run clean:public",
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write './*.js' 'src/**/*.js' 'src/**/*.jsx'",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "npx gatsby build --prefix-paths && gh-pages -d public"
   },
-  "repository": "git+https://github.com/alxshelepenok/gatsby-starter-lumen.git",
+  "repository": "git+https://github.com/blkwtkns/static-personal-site.git",
   "keywords": [
     "gatsby",
     "blog",
@@ -21,7 +21,7 @@
     "theme",
     "starter"
   ],
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Blake Watkins",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
