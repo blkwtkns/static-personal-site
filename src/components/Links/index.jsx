@@ -1,7 +1,7 @@
 import React from 'react'
 import { withPrefix } from 'gatsby'
 import './style.scss'
-import '../../assets/fonts/fontello-771c82e0/css/fontello.css'
+import '../../assets/fonts/fontello-5ad71e07/css/fontello.css'
 
 class Links extends React.Component {
   render() {
@@ -66,7 +66,7 @@ class Links extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="icon-pdf" />
+              <i className="icon-file-pdf" />
             </a>
           </li>
         </ul>

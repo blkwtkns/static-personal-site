@@ -1,0 +1,15 @@
+
+.icon-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf099;&nbsp;'); }
+.icon-github-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09b;&nbsp;'); }
+.icon-rss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09e;&nbsp;'); }
+.icon-linkedin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0e1;&nbsp;'); }
+.icon-github { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf113;&nbsp;'); }
+.icon-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf167;&nbsp;'); }
+.icon-stackoverflow { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf16c;&nbsp;'); }
+.icon-linux { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf17c;&nbsp;'); }
+.icon-skype { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf17e;&nbsp;'); }
+.icon-file-pdf { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1c1;&nbsp;'); }
+.icon-paper-plane { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1d8;&nbsp;'); }
+.icon-whatsapp { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf232;&nbsp;'); }
+.icon-medium { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf23a;&nbsp;'); }

@@ -1,0 +1,94 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9daa1fdf0838118518a7e22715e83abc",
+      "css": "file-pdf",
+      "code": 61889,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "72b1277834cba5b7944b0a6cac7ddb0d",
+      "css": "rss",
+      "code": 61598,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "38575a803c4da31ce20d77e1e1236bcb",
+      "css": "paper-plane",
+      "code": 61912,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf09b1c6561dc0ced707476e2cd83d29",
+      "css": "medium",
+      "code": 62010,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "47a35af762c8e06f3d152750134c8750",
+      "css": "linux",
+      "code": 61820,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
+      "css": "github",
+      "code": 61715,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "58a16628dcbd6456c61218f3d27591be",
+      "css": "skype",
+      "code": 61822,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
+      "css": "whatsapp",
+      "code": 62002,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a9862b9d5197886c1ad693ecd7120b31",
+      "css": "youtube",
+      "code": 61799,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e1597911f34fea0a188ae51fe4a2d9a9",
+      "css": "stackoverflow",
+      "code": 61804,
+      "src": "fontawesome"
+    }
+  ]
+}
