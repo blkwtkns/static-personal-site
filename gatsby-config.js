@@ -23,8 +23,8 @@ module.exports = {
         path: '/about/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'Family',
+        path: '/family/',
       },
     ],
     author: {
@@ -114,6 +114,13 @@ module.exports = {
           {
             resolve: 'gatsby-remark-responsive-iframe',
             options: { wrapperStyle: 'margin-bottom: 1.0725rem' },
+          },
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "noopener noreferrer"
+            }
           },
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
