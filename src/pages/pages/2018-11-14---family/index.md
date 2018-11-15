@@ -5,7 +5,7 @@ path: "/family"
 ---
 
 
-![Here we are! Captured a few moments(all thanks to [Juliana](https://www.anothercupcontent.com/)), including this one, where our little guy was willing to stop wrestling and start turning on the charm. I truly love my family, I consider myself incredibly graced with their company and antics. This is missing our other children though...](./EWfam-16.jpg)
+![Here we are! Captured a few moments(all thanks to [Juliana](https://www.anothercupcontent.com/)), including this one, where our little guy was willing to stop wrestling and start turning on the charm. I truly love my family, I consider myself incredibly graced with their company and antics. This is missing our other children though...](./EWfam-58.jpg)
 
 *Here we are! Captured a few moments(all thanks to [Juliana](https://www.anothercupcontent.com/)), including this one, where our little guy was willing to stop wrestling and start turning on the charm. I truly love my family, I consider myself incredibly graced with their company and antics. This is missing our other children though...*
 
